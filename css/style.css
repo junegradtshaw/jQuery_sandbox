@@ -1,0 +1,6 @@
+#container {
+  display : block;
+}
+#container img {
+  display : inline-block;
+}
